@@ -8,7 +8,7 @@ Neste repositório, você encontrará três projetos distintos que utilizam prog
 
 ### Sistema de Contas Bancárias
 
-Dentro da pasta "Pasta Principal", você encontrará o projeto do "Sistema de Contas Bancárias". Este sistema foi desenvolvido com base nos princípios da programação orientada a objetos e permite a gestão de contas bancárias.
+Este sistema foi desenvolvido com base nos princípios da programação orientada a objetos e permite a gestão de contas bancárias.
 
 ## Pasta OO2
 
